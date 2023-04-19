@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add Amazon Sagemaker Docs integrations page (#7293)

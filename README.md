@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Fix Yolo 8.0.206 scale bug (#7821)

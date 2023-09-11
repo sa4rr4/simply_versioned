@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update the heatmap module code + docs (#7045)

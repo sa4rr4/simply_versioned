@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)

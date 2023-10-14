@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add Weights & Biases Docs integrations page (#7199)

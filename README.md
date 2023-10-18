@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Fix Yolo 8.0.206 scale bug (#7821)

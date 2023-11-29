@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)

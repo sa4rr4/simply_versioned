@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Elaborate Train and Predict mode docs arguments (#8137)

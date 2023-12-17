@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix Yolo 8.0.206 scale bug (#7821)

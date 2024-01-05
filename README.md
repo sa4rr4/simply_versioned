@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix OBB xywh-angle concatenation bug (#7404)

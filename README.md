@@ -1,1 +1,1 @@
-update requirements.txt
+Update Discord and Contributing Guide URLs (#9270)

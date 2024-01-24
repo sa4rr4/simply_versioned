@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+docs: update view-results-in-terminal.md (#66)

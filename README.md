@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)

@@ -1,1 +1,1 @@
-fix val each epoch
+Fixed RTDETR GFLOPs bug (#7309)

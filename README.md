@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)

@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)

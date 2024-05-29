@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Avoid creating -hub dir without processing images (#8334)

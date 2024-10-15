@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
